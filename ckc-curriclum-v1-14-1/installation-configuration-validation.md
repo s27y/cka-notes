@@ -28,3 +28,4 @@ Verify the worker nodes have joined the cluster successfully
 https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/
 
 
+# Run end-to-end tests on your cluster
